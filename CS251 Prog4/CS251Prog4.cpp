@@ -1,6 +1,5 @@
 //Author:Akash Magnadia
-//NetID: amagna2
-//Class: CS 251
+//Author: Akash Magnadia
 //Jumble Program
 
 #include <string>
